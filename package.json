@@ -25,6 +25,7 @@
     "@ionic/cloud-angular": "^0.11.0",
     "@ionic/storage": "2.0.0",
     "angular2-fullcalendar": "^1.0.19",
+    "express": "^4.15.2",
     "ionic-angular": "2.3.0",
     "ionicons": "3.0.0",
     "rxjs": "5.0.1",
